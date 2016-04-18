@@ -2,7 +2,6 @@ April 18, 2016
 
 Cohort12 - Lecture Attendance
 
-Jacob Tran
 Yii Van Tay
 Matthew Israelson
 Ly (Jane) Wong
@@ -14,6 +13,7 @@ Todd Cardoso
 Cristian Guerrero Benitez
 Michael Christianson
 Kahlil Ashanti
+Quan Lee
 Gurbraj Singh
 Denis Trinh
 Luc Hyatt
